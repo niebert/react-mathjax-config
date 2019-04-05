@@ -5,7 +5,7 @@
 React component to display math formulas. The rendering is dependent on the availability of MathJax for the React app using `react-math-config`.
 * (offline use) somewhere on the local file system (see [AppLSAC](https://en.wikiversity.org/wiki/AppLSAC)),
 * (online use) by importing a MathJax installation on a remote server (CDN). In this case rendering of mathematical formula will be available if and only if the mobile device or computer has internet access. 
-The main difference between the forked [`react-mathjax`] from [Samy Pesse](https://www.github.com/SamyPesse) is a configurable lanching of the [MathJax](https://www.mathjax.org/) provider setting for offline and online  
+The main difference between the forked [`react-mathjax`](https://github.com/SamyPesse/react-mathjax) from [Samy Pesse](https://www.github.com/SamyPesse) is a configurable lanching of the [MathJax](https://www.mathjax.org/) provider setting for offline and online  
 
 ### Installation
 
