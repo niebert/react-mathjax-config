@@ -1,6 +1,6 @@
 /* Use a local MathJax installation as subdirectory /mathjax/ with the library /mathjax/MathJax.js */
 /* @flow */
-/* global MathJax */
+/* local MathJax in subdirectory */
 import * as React from 'react';
 import loadScript from 'load-script';
 import MathJaxContext, { type MathJaxContextValue } from './context';
